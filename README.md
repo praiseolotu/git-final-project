@@ -7,6 +7,7 @@
 >> P=> Principal Amount
 >> T=> Time
 >> R=> Rate
+>
 
 > Output
 >
